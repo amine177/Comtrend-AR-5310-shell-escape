@@ -18,7 +18,7 @@ Usual terminal constructs like:
  - the command separator ";" 
  - the control operator  "&"  (run in forground) 
  - the redirection operator (pipe) "|" 
- - the command substituion operator "`"
+ - the command substitution operator "`"
  
 are all filtered as shown here :
 ```
