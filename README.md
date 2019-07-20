@@ -17,7 +17,7 @@ upnp urlfilter timeres tr69cfg logouttime ipneigh dhcp6sinfo nat mcpctl ]
 Usual terminal constructs like:
  - the command separator ";" 
  - the control operator  "&"  (run in forground) 
- - the redirection operator (pipe) "|" 
+ - the process communication operator (pipe) "|" 
  - the command substitution operator "`"
  
 are all filtered as shown here :
