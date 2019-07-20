@@ -2,9 +2,9 @@
 
 Vulnerable product: Comtrend AR-5310 , firmware version: GE31-412SSG-C01_R10.A2pG039u.d24k
 
-TL;DR: A local user can bypass the restricted shell using the commands substitution operator $( commmand )
+TL;DR: A local user can bypass the restricted shell using the command substitution operator $( commmand )
 
-Comtrend AR 5310 routers have a restricted shell, the list of command a user can execute is
+Comtrend AR 5310 routers have a restricted shell, the list of commands a user can execute is
 
 [ ? help logout exit quit reboot ads lxdslctl xtm loglevel logdest virtualserver ddns dumpcfg 
 dumpmdm meminfo psp dumpsysinfo dnsproxy syslog ifconfig ping sntp sysinfo tftp wlan wlctl
