@@ -1,5 +1,7 @@
 **Disclaimer: All content here is to raise awareness and is not intended for malicious use.**
 
+CVE-2019-14219
+
 Vulnerable product: Comtrend AR-5310 , firmware version: GE31-412SSG-C01_R10.A2pG039u.d24k
 
 TL;DR: A local user can bypass the restricted shell using the command substitution operator $( commmand )
