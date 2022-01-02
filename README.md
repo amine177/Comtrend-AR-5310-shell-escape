@@ -42,7 +42,7 @@ Still the $ operator is not filtered:
 telnetd:error:497.862:processInput:490:unrecognized command $
 ```
 
-Here i came to the conclusion that invoking a command with $( subcommand ) as argument would 
+Here I came to the conclusion that invoking a command with $( subcommand ) as argument would 
 give an obvious shell
 ```
 > ping $( sh )                                                              
